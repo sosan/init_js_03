@@ -1,0 +1,12 @@
+body
+{
+    
+    height: 100vh;
+    background-color: #FDE0D0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    overflow-y: hidden;
+
+}
